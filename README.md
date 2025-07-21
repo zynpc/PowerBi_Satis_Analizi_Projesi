@@ -13,8 +13,8 @@ Bu sayfadan diğer sayfalara yönlendirme butonları ile geçiş yapılabilir.
 ## Özet Sonuçlar
 Sayfada yer alan özet göstergeler:
 
--Toplam Satış Adeti
--Toplam Ciro
+*Toplam Satış Adeti
+*Toplam Ciro
 -Toplam Müşteri Sayısı
 -Toplam Sipariş Sayısı
 -Müşteri Başına Ciro
