@@ -7,13 +7,39 @@ Analizler; özet satış performansı, müşteri davranışları ve ürün kateg
 Sonuçta, karar destek süreçlerini güçlendirecek, marka bazlı kolay anlaşılır ve kapsamlı bir raporlama çözümü sunulmuştur.
 
 ## Rapor Giriş Sayfası
-![](Images/Rapor Giriş Sayfası.png)
+Bu sayfadan diğer sayfalara yönlendirme butonları ile geçiş yapılabilir.
+![](Images/Rapor_Giriş_Sayfası.png)
 
 ## Özet Sonuçlar
-![](Images/Özet Sonuçlar.png)
+Sayfada yer alan özet göstergeler:
+
+-Toplam Satış Adeti
+-Toplam Ciro
+-Toplam Müşteri Sayısı
+-Toplam Sipariş Sayısı
+-Müşteri Başına Ciro
+-Müşteri Başına Adet
+-Ortalama Sipariş Tutarı
+-Haftasonu-Haftaiçi Satış Grafiği
+-Saatlik Satış Tutarı Grafiği
+-Bölgelere Göre Toplam Satış Adeti
+
+![](Images/Özet_Sonuçlar.png)
 
 ## Müşteri Perspektifi
-![](Images/Müşteri Perspektifi.png)
+Bu sayfa, müşteri davranışlarını ve demografik özelliklerini analiz eder.
+
+-Müşteri Sayısı
+-Kadın ve Erkek Müşteri Sayısı
+-İstanbul’daki Top 10 Müşteri(Toplam Ciro'ya göre)
+-Yaş Grubuna Göre Satışlar
+
+![](Images/Müşteri_Perspektifi.png)
 
 ## Kategori Perspektifi
-![](Images/Kategori Perspektifi.png)
+Bu sayfa, ürün kategorileri bazında satış performansını analiz eder.
+
+-İstanbul’da yaşayan ve genç yaş grubunda yer alan müşterilerin
+kategori bazında cirosu, ağaç haritası ile görselleştirilmiştir.
+
+![](Images/Kategori_Perspektifi.png)
