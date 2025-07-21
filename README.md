@@ -6,13 +6,14 @@ Power BI kullanılarak, veri modelleme, ölçüm hesaplama ve görselleştirme a
 Analizler; özet satış performansı, müşteri davranışları ve ürün kategorilerine göre detaylandırılmıştır.
 Sonuçta, karar destek süreçlerini güçlendirecek, marka bazlı kolay anlaşılır ve kapsamlı bir raporlama çözümü sunulmuştur.
 
-# Rapor Giriş Sayfası
+## Rapor Giriş Sayfası
+![](Images/Rapor Giriş Sayfası.png)
 
+## Özet Sonuçlar
+![](Images/Özet Sonuçlar.png)
 
-# Özet Sonuçlar
+## Müşteri Perspektifi
+![](Images/Müşteri Perspektifi.png)
 
-
-# Müşteri Perspektifi
-
-
-# Kategori Perspektifi
+## Kategori Perspektifi
+![](Images/Kategori Perspektifi.png)
