@@ -13,33 +13,33 @@ Bu sayfadan diğer sayfalara yönlendirme butonları ile geçiş yapılabilir.
 ## Özet Sonuçlar
 Sayfada yer alan özet göstergeler:
 
-*Toplam Satış Adeti
-*Toplam Ciro
--Toplam Müşteri Sayısı
--Toplam Sipariş Sayısı
--Müşteri Başına Ciro
--Müşteri Başına Adet
--Ortalama Sipariş Tutarı
--Haftasonu-Haftaiçi Satış Grafiği
--Saatlik Satış Tutarı Grafiği
--Bölgelere Göre Toplam Satış Adeti
+- Toplam Satış Adeti
+- Toplam Ciro
+- Toplam Müşteri Sayısı
+- Toplam Sipariş Sayısı
+- Müşteri Başına Ciro
+- Müşteri Başına Adet
+- Ortalama Sipariş Tutarı
+- Haftasonu-Haftaiçi Satış Grafiği
+- Saatlik Satış Tutarı Grafiği
+- Bölgelere Göre Toplam Satış Adeti
 
 ![](Images/Özet_Sonuçlar.png)
 
 ## Müşteri Perspektifi
 Bu sayfa, müşteri davranışlarını ve demografik özelliklerini analiz eder.
 
--Müşteri Sayısı
--Kadın ve Erkek Müşteri Sayısı
--İstanbul’daki Top 10 Müşteri(Toplam Ciro'ya göre)
--Yaş Grubuna Göre Satışlar
+- Müşteri Sayısı
+- Kadın ve Erkek Müşteri Sayısı
+- İstanbul’daki Top 10 Müşteri(Toplam Ciro'ya göre)
+- Yaş Grubuna Göre Satışlar
 
 ![](Images/Müşteri_Perspektifi.png)
 
 ## Kategori Perspektifi
 Bu sayfa, ürün kategorileri bazında satış performansını analiz eder.
 
--İstanbul’da yaşayan ve genç yaş grubunda yer alan müşterilerin
+- İstanbul’da yaşayan ve genç yaş grubunda yer alan müşterilerin
 kategori bazında cirosu, ağaç haritası ile görselleştirilmiştir.
 
 ![](Images/Kategori_Perspektifi.png)
